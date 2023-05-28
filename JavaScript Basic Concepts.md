@@ -210,3 +210,4 @@ console.log(calculator.subtract(5, 2)); // prints 3
 ```
 
 In this example, we define a `calculator` object with an `add` method that returns the sum of two numbers, and a `subtract` method that returns the difference between two numbers. We then call the `add` and `subtract` methods on the `calculator` object to perform calculations.
+
