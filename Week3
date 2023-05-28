@@ -1,1 +1,0 @@
-{"title":{"id":"title","type":"title","title":\[{"type":"text","text":{"content":"JavaScript Basic Concepts","link":null},"annotations":{"bold":false,"italic":false,"strikethrough":false,"underline":false,"code":false,"color":"default"},"plain\_text":"JavaScript Basic Concepts","href":null}\]}}
